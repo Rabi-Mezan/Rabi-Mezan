@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "255px" src="https://raw.githubusercontent.com/Rabi-Mezan/flash-corner-client/main/src/images/Blue%20and%20Gray%20Modern%20Minimalist%20Fashion%20Photographer%20Facebook%20Cover.png" alt="cover" />
+<img width="100%" height = "270px" src="https://raw.githubusercontent.com/Rabi-Mezan/flash-corner-client/main/src/images/Blue%20and%20Gray%20Modern%20Minimalist%20Fashion%20Photographer%20Facebook%20Cover.png" alt="cover" />
 </div>
 
 <h1> Hello buddy ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
