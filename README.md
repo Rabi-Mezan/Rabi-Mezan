@@ -2,8 +2,6 @@
 <img width="100%" height = "270px" src="https://raw.githubusercontent.com/Rabi-Mezan/flash-corner-client/main/src/images/Blue%20and%20Gray%20Modern%20Minimalist%20Fashion%20Photographer%20Facebook%20Cover.png" alt="cover" />
 </div>
 
-<h1> Hello buddy ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Rabi-Mezan.https://github.com/Rabi-Mezan)
 
